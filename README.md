@@ -7,7 +7,11 @@ Example:
 `Will it rain tomorrow?` has the intent `weather`,`rain`
 
 ## Repo Organization
-`[Domain]` / `[actions]`.json -- JSON Array of text phrases that describe user intentention
+- **Locations** - directory containing locations  around the world.
+- **dates** - directory holding date & time intents
+- **intents** -- main directory
+  - `[Domain]` -- Intent domain
+    - `[actions]`.json -- JSON Array of text phrases that describe user intentention
 
 ## Domains
 Domains represnet larger clusters of actions such as navigation, weather, music, timer, calendar, etc.
