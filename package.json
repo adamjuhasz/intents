@@ -1,5 +1,5 @@
 {
-  "name": "botler-intents",
+  "name": "alana-intents",
   "version": "1.0.0",
   "description": "NLP",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/botlerjs/intents.git"
+    "url": "git+https://github.com/alana-bot/intents.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/botlerjs/intents/issues"
+    "url": "https://github.com/alana-bot/intents/issues"
   },
-  "homepage": "https://github.com/botlerjs/intents#readme"
+  "homepage": "https://alana.cloud"
 }
