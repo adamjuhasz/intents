@@ -1,5 +1,5 @@
 {
-  "name": "botler-intents",
+  "name": "@alana/intents",
   "version": "1.0.0",
   "description": "NLP",
   "main": "index.js",
