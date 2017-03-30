@@ -1,6 +1,6 @@
 # Chatbot intents
 
-This is a collection of intents for chatbots to understand what a user wants to do. Each intent is mapped to a domain and an action. All actions are JSON arrays of strings for easy cross-platform use. The project is sued by alana to build smarter bots. 
+This is a collection of intents for chatbots to understand what a user wants to do. Each intent is mapped to a domain and an action. All actions are JSON arrays of strings for easy cross-platform use. These intents can be used to build smarter bots. 
 
 Example:
 
